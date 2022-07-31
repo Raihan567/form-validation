@@ -1,6 +1,5 @@
-import "./App.css";
 import Register from "./Register";
-
+import './index.css'
 function App() {
   return (
     <div className="App">
